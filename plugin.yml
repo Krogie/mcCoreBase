@@ -1,0 +1,18 @@
+name: CorePlugin
+main: Main
+version: 1.0
+api-version: 1.13
+commands:
+  motd:
+    description: Ändere die MOTD des Servers
+  gm:
+    description: Setzt den Spielmodus
+  ban:
+    description: Bannt einen Spieler
+  unban:
+    description: Entbannt einen Spieler
+  mute:
+    description: Stummt einen Spieler
+  unmute:
+    description: Hebt eine Stummschaltung auf
+
